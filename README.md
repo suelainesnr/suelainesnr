@@ -17,7 +17,7 @@ Desenvolvedora backend focada em APIs REST com Java e Spring Boot. Experiência 
 ## 📌 Projetos em destaque
 🔹 [API de Cadastro de Funcionários](link)  
 🔹 [API de Benefícios](link)  
-🔹 [Projeto com MongoDB](link)
+
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/suelaine-r-932789143
