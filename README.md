@@ -10,7 +10,7 @@ Desenvolvedora backend focada em APIs REST com Java e Spring Boot. Experiência 
 ## 🛠️ Tecnologias
 - Java | Spring Boot
 - Docker
-- PostgreSQL / MongoDB
+- PostgreSQL
 - APIs REST
 - Git e GitHub
 
